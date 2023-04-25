@@ -1,1 +1,1 @@
-# plant-doc
+#Leaf Diseases detection using transfer learning 
